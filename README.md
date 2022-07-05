@@ -189,9 +189,10 @@ on demand.
 
 Raw stock trading activity –
 
-(^)
-(^)
+![image](https://user-images.githubusercontent.com/90517477/177387101-b48c97df-cb3a-4670-8b70-62cf6ce1a8ef.png)
+
 Final processed data –
+![image](https://user-images.githubusercontent.com/90517477/177387145-7abf9c90-3778-4c82-a482-53f7305221f3.png)
 
 
 ##### 5. PROFILING IN PYTHON
@@ -208,9 +209,11 @@ trading activity as follows –
 Case 1: When there is no trading activity:
 In this case, no file will be written, and no file will be updated.
 
+![image](https://user-images.githubusercontent.com/90517477/177387201-f45c091d-c36c-4b69-99da-621aca84cad5.png)
 
-(^)
+
 Case 2: When trading activity is present
+![image](https://user-images.githubusercontent.com/90517477/177387322-3b6e5d47-4796-4948-a150-607f446fdc53.png)
 
 
 ##### 6. RESULTS
