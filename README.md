@@ -187,15 +187,15 @@ historical data may be made available in the future, depending
 on demand.
 
 
-Raw stock trading activity –
+### Raw stock trading activity –
 
 ![image](https://user-images.githubusercontent.com/90517477/177387101-b48c97df-cb3a-4670-8b70-62cf6ce1a8ef.png)
 
-Final processed data –
+### Final processed data –
 ![image](https://user-images.githubusercontent.com/90517477/177387145-7abf9c90-3778-4c82-a482-53f7305221f3.png)
 
 
-##### 5. PROFILING IN PYTHON
+#####  PROFILING IN PYTHON
 
 Profiling is a set of statistics that describes how often and
 for how long various parts of the program executed.
@@ -216,7 +216,7 @@ Case 2: When trading activity is present
 ![image](https://user-images.githubusercontent.com/90517477/177387322-3b6e5d47-4796-4948-a150-607f446fdc53.png)
 
 
-##### 6. RESULTS
+##### RESULTS
 
 1.Extracting the data:
 Here we are extracting the Xetra source file which is a public
