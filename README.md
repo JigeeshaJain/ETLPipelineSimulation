@@ -108,8 +108,7 @@ given service. This is an extremely important aspect that
 determines the efficiency and capacity of any cloud-based
 service.
 
-###2.1 Project Model:
-
+## Project Model:
 ```
 Below is our project model as per above description -
 ![image](https://user-images.githubusercontent.com/90517477/177386247-504f3f77-8c4f-4baa-a11b-da6290bd3030.png)
