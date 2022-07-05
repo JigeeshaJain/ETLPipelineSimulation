@@ -6,47 +6,11 @@
 
 #### Title: ETL Pipeline Simulation of AWS
 
-Submitted by: Professor:
-Jigeesha Sanjeev Jain Hui Lu
-jjain1@binghamtin.edu huilu@binghamton.edu
-B00928112 Department of Computer Science
-Shubhankar Vivek Gore Binghamton University
-sgore3@binghamton.edu
-B
-Tanmayee Kulkarni
-tkulkar1@binghamtin.edu
-B
-
-
-## Acknowledgement
-
-It gives us immense pleasure to present the report of the ETL
-Pipeline simulation of AWS project undertaken during Intro to Cloud Computing – CS552 Spring 2022.
-
-We would like to express our special thanks to Prof. Hui Lu for
-his able guidance and support in the completion of the project
-which also led to us explore new learnings apart from the
-project.
-
-Finally, we would like to express our thankfulness to our friends
-and respondents for their support and willingness to spend time
-with us to fill in the questionnaires regarding the same.
-
 
 ### CONTENTS
 
-(^)
 
-1. Background and Motivation
-2. Overview of AWS Glue
-3. Project Description
-    2.1 Project Model
-4. Deutsch Börse Public Dataset
-5. Python Profiling
-6. Results
-
-
-1. Background and Motivation:
+### Background and Motivation:
     To develop a simulated model from scratch using Python
 Pandas and run it in DockerHub which is like AWS Glue.
 Orchestration of implemented pipeline will be done on
@@ -65,7 +29,7 @@ service works behind the curtains of UI and understand it
 deeper while implementing it on our own.
 
 
-2. PROJECT DESCRIPTION:
+### PROJECT DESCRIPTION:
     Written in Python using Pandas Library, our ETL pipeline
 will extract Deutsche Bank data and put it in AWS S3 bucket.
 From Amazon S3 pipeline, we transform the data to remove
