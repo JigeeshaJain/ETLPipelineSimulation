@@ -109,12 +109,13 @@ determines the efficiency and capacity of any cloud-based
 service.
 
 ## Project Model:
-```
+
 Below is our project model as per above description -
-![image](https://user-images.githubusercontent.com/90517477/177386247-504f3f77-8c4f-4baa-a11b-da6290bd3030.png)
+![image](https://user-images.githubusercontent.com/90517477/177386749-1a2c9882-63e1-4005-9e41-4232485d9c8e.png)
 
 
-3. OVERVIEW OF AWS GLUE
+
+### OVERVIEW OF AWS GLUE
 
 AWS Glue is an ETL (extract, transform, and load) solution
 that is completely managed by AWS. Data analysis and
@@ -138,7 +139,7 @@ you may query the data using Data Manipulation (DML) queries
 in Athena.
 
 
-4. DEUTSCH BÖRSE DATASET
+### DEUTSCH BÖRSE DATASET
 The Deutsche Börse Public Dataset (PDS) project makes
 near-time data derived from Deutsche Börse's trading systems
 available to the public for free.
